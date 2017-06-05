@@ -6,3 +6,11 @@ body {
     font-family: "Times New Roman";
     color:steelblue;
 }
+
+h3 {
+    font-weight: bolder
+}
+
+#bowl {
+    height: 189px;
+}

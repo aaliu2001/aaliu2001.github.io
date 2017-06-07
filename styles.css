@@ -14,3 +14,7 @@ h3 {
 #bowl {
     height: 189px;
 }
+
+.floof:hover{
+    color: blue;
+}

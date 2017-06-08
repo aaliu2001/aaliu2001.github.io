@@ -18,3 +18,11 @@ h3 {
 .floof:hover{
     color: blue;
 }
+
+img{
+    justify-content: space-around;
+}
+
+#creator{
+    justify-content: flex-end;
+}

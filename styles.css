@@ -23,6 +23,7 @@ img{
     justify-content: space-around;
 }
 
-#creator{
-    justify-content: flex-end;
+#button{
+    border-color: transparent;
+    font-family: cursive;
 }

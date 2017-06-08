@@ -13,6 +13,7 @@ h3 {
 
 #bowl {
     height: 189px;
+    padding: 5px;
 }
 
 .floof:hover{
@@ -44,6 +45,7 @@ img{
 .adoption img{
     flex-grow:0;
     flex-shrink:0;
+    padding-right: 15px;
 }
 
 #thinking {

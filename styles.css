@@ -27,3 +27,12 @@ img{
     border-color: transparent;
     font-family: cursive;
 }
+
+#ground{
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.adoption{
+    text-align: right;
+}

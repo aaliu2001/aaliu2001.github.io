@@ -29,10 +29,23 @@ img{
 }
 
 #ground{
+    alignment-baseline: before-edge;
+    display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
 }
 
 .adoption{
-    text-align: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.adoption img{
+    flex-grow:0;
+    flex-shrink:0;
+}
+
+#thinking {
+    font-size: 1.25em;
 }

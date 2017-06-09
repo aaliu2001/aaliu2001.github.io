@@ -5,3 +5,9 @@ function popUp() {
 }
 
 $("#button").on("click", popUp);
+
+function contactUs() {
+  
+}
+
+$("#contact").on("click", contactUs);

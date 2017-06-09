@@ -41,15 +41,24 @@
        <br>
        
      <div class="feedback"> Please rate your experience on this website!<br>
-         <input type="radio" id="good"><label for="good">Good</label><br/>
-         <input type="radio" id="okay"><label for="okay">Okay</label><br/>
-         <input type="radio" id="bad"><label for="bad">   Bad</label><br/>
+         <form>
+            <input type="radio" name="feedback" value="good" checked> Good<br>
+            <input type="radio" name="feedback" value="okay"> Okay<br>
+            <input type="radio" name="feedback" value="bad"> Bad
+         </form>
     </div>
      <p><button id =button onclick="popUp()">Submit!</button></p>
-    
+    <br>
     <footer>
         Project Floof<br>
         contact us at (314) 159 2653
-    </footer>
+    </footer>  
+        <!-- <form>
+          <fieldset>
+            Problem:<br>
+            <input type="text" name="problem" id="problemBox"><br><br>
+          </fieldset>
+        </form> -->
+   
     </body>
 </html>

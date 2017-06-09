@@ -16,17 +16,13 @@ h3 {
     padding: 5px;
 }
 
-.floof:hover{
-    color: blue;
-}
-
 img{
     justify-content: space-around;
 }
 
 #button{
     border-color: transparent;
-    font-family: cursive;
+    font-family: "times new roman";
 }
 
 #ground{
@@ -50,4 +46,8 @@ img{
 
 #thinking {
     font-size: 1.25em;
+}
+
+#button:hover{
+    color: blue;
 }
